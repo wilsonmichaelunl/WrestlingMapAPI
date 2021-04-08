@@ -1,0 +1,16 @@
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Managers.deps.json
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Managers.dll
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Managers.pdb
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Accessors.dll
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Engines.dll
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Accessors.pdb
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\bin\Debug\netcoreapp3.1\Engines.pdb
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.csprojAssemblyReference.cache
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.AssemblyInfoInputs.cache
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.AssemblyInfo.cs
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.csproj.CopyComplete
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.dll
+C:\Users\wilso\Documents\WrestlingMap\WrestlingMap\Managers\obj\Debug\netcoreapp3.1\Managers.pdb
